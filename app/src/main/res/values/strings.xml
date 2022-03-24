@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">convNum</string>
+    <string name="binary">Número Binario</string>
+    <string name="decimal">Número Decimal</string>
+    <string name="hexa">Número Hexadecimal</string>
+    <string name="octal">Número Octal</string>
+</resources>
